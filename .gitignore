@@ -1,0 +1,14 @@
+# Compiled program
+amethyst_accueil
+*.o
+
+# Runtime employee and payroll data
+employee.txt
+copy.employee.txt
+payslip.txt
+report.txt
+
+# Editor and operating-system files
+.DS_Store
+.vscode/
+
